@@ -1,6 +1,6 @@
 public interface GameInterface {
 
-    Board getBoard();
+    BoardInterface getBoard();
 
     /**
      * @param playerNum could be int or colour or boolean?

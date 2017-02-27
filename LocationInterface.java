@@ -1,4 +1,4 @@
-public class LocationInterface {
+public interface LocationInterface {
 
     /**
      * @param player could be Colour or boolean
